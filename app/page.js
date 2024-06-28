@@ -10,22 +10,22 @@ export default function Home() {
   const projects = [
     {
       title: "McLaren P1",
-      src: "./P1.jpg",
+      src: "P1.jpg",
       color: "#000000"
     },
     {
       title: "Ford Mustang",
-      src: "./ford-mustang.jpg",
+      src: "ford-mustang.jpg",
       color: "#8C8C8C"
     },
     {
       title: "Pagani Utopia",
-      src: "./Pagani-Utopia.jpg",
+      src: "Pagani-Utopia.jpg",
       color: "#EFE8D3"
     },
     {
       title: "Ferrari Daytona sp3",
-      src: "./ferrari-daytona-sp3.jpg",
+      src: "ferrari-daytona-sp3.jpg",
       color: "#706D63"
     }
   ]
